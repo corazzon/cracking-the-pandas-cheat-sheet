@@ -1,5 +1,4 @@
 # cracking-the-cheat-sheet
-cracking the cheat sheet
 
 ## Pandas cheat sheet 따라하기
 
@@ -48,3 +47,5 @@ https://youtu.be/cUoJDBFsJ8Y
 * [15] 파이썬 판다스로 groupby 활용하여 다양한 데이터 집계를 활용하기
 https://youtu.be/gd5faB32xs0
 
+* [16] Pandas 기초 - 시계열 데이터(Time Series Data) 분석을 위한 판다스 Expanding and Rolling 이해하기
+https://youtu.be/Sq_uhK_GFIQ
