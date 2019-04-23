@@ -55,3 +55,9 @@ https://youtu.be/yw4SX6KRGJw
 
 * [18] Pandas 기초 - 파이썬 데이터 시각화 판다스로 bar plot 막대그래프 그리기
 https://youtu.be/YTAd1TmgPv0
+
+* [19] Pandas 기초 - 파이썬 데이터 시각화 히스토그램과 도수분포표 이해하기, 막대그래프 vs 히스토그램 차이점 이해하기
+https://youtu.be/L_UXVLz5Sxw
+
+* [20] Pandas 기초 - 파이썬 판다스로 차분 diff 값을 구하고 히스토그램으로 표현하기
+https://youtu.be/zFOvKkEtpEg
