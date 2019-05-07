@@ -26,19 +26,19 @@ https://youtu.be/D5ep0-slc6U
 * [8] 파이썬 판다스로 apply 활용하기 lambda 익명함수 사용하기
 https://youtu.be/0yjNRB5ljew
 
-* [9] 파이썬 Handling Missing Data, fillna, dropna로 결측치 다루기
+* [9] Pandas Handling Missing Data, fillna, dropna로 결측치 다루기
 https://youtu.be/lUvv47ko7Ww
 
-* [10] 파이썬  판다스 assign 으로 새로운 컬럼 만들기, qcut으로 binning, bucketing 하기
+* [10] Pandas assign 으로 새로운 컬럼 만들기, qcut으로 binning, bucketing 하기
 https://youtu.be/CGEhwAd7Dbk
 
-* [11] 파이썬  판다스 df.sort_values, rename, sort_index, reset_index로 데이터 프레임 Reshaping
+* [11] Pandas df.sort_values, rename, sort_index, reset_index로 데이터 프레임 Reshaping
 https://youtu.be/iICCBjAHRq8
 
-* [12] 파이썬  판다스 melt, pivot 으로 Tidy Data 만들기
+* [12] Pandas melt, pivot 으로 Tidy Data 만들기
 https://youtu.be/mVr1OWLpI_M
 
-* [13] 파이썬 판다스로 pd.concat([df1,df2]) 시리즈, 데이터프레임 합치기
+* [13] Pandas pd.concat([df1,df2]) 시리즈, 데이터프레임 합치기
 https://youtu.be/vbr4xrFEbyw
 
 * [14] merge로 데이터프레임 합치기 left, right, inner, outer 옵션 사용하기 - 파이썬 판다스로 데이터 분석
@@ -47,17 +47,44 @@ https://youtu.be/cUoJDBFsJ8Y
 * [15] 파이썬 판다스로 groupby 활용하여 다양한 데이터 집계를 활용하기
 https://youtu.be/gd5faB32xs0
 
-* [16] Pandas 기초 - 시계열 데이터(Time Series Data) 분석을 위한 판다스 Expanding and Rolling 이해하기
+* [16] 시계열 데이터(Time Series Data) 분석을 위한 판다스 Expanding and Rolling 이해하기
 https://youtu.be/Sq_uhK_GFIQ
 
-* [17] Pandas 기초 - 파이썬 판다스로 Series 와 DataFrame 데이터 시각화 하기 소개
+* [17] 파이썬 판다스로 Series 와 DataFrame 데이터 시각화 하기 소개
 https://youtu.be/yw4SX6KRGJw
 
-* [18] Pandas 기초 - 파이썬 데이터 시각화 판다스로 bar plot 막대그래프 그리기
+* [18] 파이썬 데이터 시각화 판다스로 bar plot 막대그래프 그리기
 https://youtu.be/YTAd1TmgPv0
 
-* [19] Pandas 기초 - 파이썬 데이터 시각화 히스토그램과 도수분포표 이해하기, 막대그래프 vs 히스토그램 차이점 이해하기
+* [19] 파이썬 데이터 시각화 히스토그램과 도수분포표 이해하기, 막대그래프 vs 히스토그램 차이점 이해하기
 https://youtu.be/L_UXVLz5Sxw
 
-* [20] Pandas 기초 - 파이썬 판다스로 차분 diff 값을 구하고 히스토그램으로 표현하기
+* [20] 파이썬 판다스로 차분 diff 값을 구하고 히스토그램으로 표현하기
 https://youtu.be/zFOvKkEtpEg
+
+* [21] 파이썬 시각화 상자 수염 그림(box plot) 그리기
+https://youtu.be/q-SrfR_amhQ
+
+* [22] 파이썬 데이터 시각화 Area plot, Grid 옵션으로 그래프 격자 만들기
+https://youtu.be/dRu0BfJ0uDg
+
+* [23] 파이썬 데이터 시각화 scatter plot, 산점도 그리기
+https://youtu.be/hlIivkjKzKY
+
+* [24] 파이썬 데이터 시각화 히스토그램과 산점도를 보완한 Hexbin plot 그리기 
+https://youtu.be/8tbF6kT9fZ8
+
+* [25] Pandas pie plot, 원 그래프, 왜  seaborn  에는 파이차트가 없을까?
+https://youtu.be/zAgVZ_jZHNg
+
+* [26] Scatter Matrix Plot 산점도를 diagonal='kde'옵션을 사용해서 커널밀도함수를 표현해 보도록 합니다.
+https://youtu.be/PtSofOihtZs
+
+* [27] 파이썬 시각화  분포도 정규분포, 분포도 그리기, Kernel Density Estimate plot 커널밀도함수, 밀도함수
+https://youtu.be/xthZxPOU_cA
+
+* [28] 소스코드 위치 안내와 다운로드 방법, 추가로 참고하면 좋을 자료들
+https://youtu.be/9hi8C2yie1o
+
+* [29] colab(google colaboratory) 에서 github 에 있는 파이썬 판다스 실습코드를 실행해 보는 방법
+https://youtu.be/P1Z7BfsWhek
