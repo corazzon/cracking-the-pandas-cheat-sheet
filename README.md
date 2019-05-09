@@ -1,4 +1,17 @@
-# cracking-the-cheat-sheet
+# cracking-the-pandas-cheat-sheet
+
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+### Pandas cheat sheet
+Python에서 엑셀과 유사한 기능을 사용할 수 있는 라이브러리로 Pandas cheat sheet을 따라해 봅니다.
+데이터 분석이나 전처리를 하다보면 주로 사용하는 기능들 위주로 사용하게 됩니다. 이런 핵심적인 내용만 정리되어 있는 cheat sheet 을 함께 보면 좋겠다는 생각이 들어서 영상으로 만들어 보게 되었습니다.  cheat sheet 은 두 장으로 되어 있고 각 내용들을 10분 내외로 실습과 함께 정리해 보았습니다.
+
+### 주피터 노트북에서 docstring 활용하기
+총 29개의 영상으로 되어 있고 많은 메소드를 다 외우시지 않고 도움말과 다큐멘트를 보고 학습하실 수 있도록 주피터 노트북에서 공식문서를 찾아보며 실습하는 방법을 주로 다루고 있습니다. 
+
+### 데이터 시각화
+시각화 부분은 짧게만 다루려고 했는데 어떤 데이터에 어떤 그래프를 사용하는게 적절할지, 막대그래프, 도수분포표, 히스토그램, 정규분포의 차이와 사용법에 대해서도 다루고 있습니다.
+
 
 ## Pandas cheat sheet 따라하기
 
