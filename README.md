@@ -2,6 +2,10 @@
 
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
+# 전체강좌보기
+
+https://www.inflearn.com/course/판다스-Pandas
+
 ### Pandas cheat sheet
 Python에서 엑셀과 유사한 기능을 사용할 수 있는 라이브러리로 Pandas cheat sheet을 따라해 봅니다.
 데이터 분석이나 전처리를 하다보면 주로 사용하는 기능들 위주로 사용하게 됩니다. 이런 핵심적인 내용만 정리되어 있는 cheat sheet 을 함께 보면 좋겠다는 생각이 들어서 영상으로 만들어 보게 되었습니다.  cheat sheet 은 두 장으로 되어 있고 각 내용들을 10분 내외로 실습과 함께 정리해 보았습니다.
