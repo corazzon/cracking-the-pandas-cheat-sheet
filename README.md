@@ -4,7 +4,7 @@ https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
 # 전체강좌보기
 
-https://www.inflearn.com/course/판다스-Pandas
+:tv: https://www.inflearn.com/course/판다스-Pandas
 
 ### Pandas cheat sheet
 Python에서 엑셀과 유사한 기능을 사용할 수 있는 라이브러리로 Pandas cheat sheet을 따라해 봅니다.
@@ -19,7 +19,7 @@ Python에서 엑셀과 유사한 기능을 사용할 수 있는 라이브러리�
 
 ## Pandas cheat sheet 따라하기
 
-* [1] 판다스 10분 완성소개, cheat sheet 보고 데이터프레임 만들어보기
+* [1] 판다스 10분 완성소개, cheat sheet 보고 데이터프레임 만들어보기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/01-02-pandas_dataframe_and_rows.ipynb)
 https://youtu.be/lspu830SzC8
 
 * [2] 판다스 데이터프레임 생성하고 데이터 가져오기
