@@ -34,7 +34,7 @@ https://youtu.be/n0pysUeamzw
 * [5] head, tail로 데이터 미리보기 df.sample(frac=0.5), df.sample(n=10), df.nlargest, df.nsmallest
 https://youtu.be/t5yKK-JxQPY
 
-* [6] 일부 컬럼을 기준으로 데이터 가져오기 Subset Variables (Columns)
+* [6] 일부 컬럼을 기준으로 데이터 가져오기 Subset Variables (Columns) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/06-pandas_cheat_sheet_columns.ipynb)
 https://youtu.be/eobqZVDd8uA
 
 * [7] 파이썬 판다스로 기본 통계 하기 value_counts, nunique, sum, count, mean, median
