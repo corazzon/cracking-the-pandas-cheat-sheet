@@ -37,10 +37,10 @@ https://youtu.be/t5yKK-JxQPY
 * [6] 일부 컬럼을 기준으로 데이터 가져오기 Subset Variables (Columns) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/06-pandas_cheat_sheet_columns.ipynb)
 https://youtu.be/eobqZVDd8uA
 
-* [7] 파이썬 판다스로 기본 통계 하기 value_counts, nunique, sum, count, mean, median
+* [7] 파이썬 판다스로 기본 통계 하기 value_counts, nunique, sum, count, mean, median [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/07-08-Summarize_Data.ipynb)
 https://youtu.be/D5ep0-slc6U
 
-* [8] 파이썬 판다스로 apply 활용하기 lambda 익명함수 사용하기
+* [8] 파이썬 판다스로 apply 활용하기 lambda 익명함수 사용하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/07-08-Summarize_Data.ipynb)
 https://youtu.be/0yjNRB5ljew
 
 * [9] Pandas Handling Missing Data, fillna, dropna로 결측치 다루기
