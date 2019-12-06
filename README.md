@@ -43,7 +43,7 @@ https://youtu.be/D5ep0-slc6U
 * [8] 파이썬 판다스로 apply 활용하기 lambda 익명함수 사용하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/07-08-Summarize_Data.ipynb)
 https://youtu.be/0yjNRB5ljew
 
-* [9] Pandas Handling Missing Data, fillna, dropna로 결측치 다루기
+* [9] Pandas Handling Missing Data, fillna, dropna로 결측치 다루기[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/09-Pandas_Handling_Missing_Data.ipynb)
 https://youtu.be/lUvv47ko7Ww
 
 * [10] Pandas assign 으로 새로운 컬럼 만들기, qcut으로 binning, bucketing 하기
