@@ -46,7 +46,7 @@ https://youtu.be/0yjNRB5ljew
 * [9] Pandas Handling Missing Data, fillna, dropna로 결측치 다루기[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/09-Pandas_Handling_Missing_Data.ipynb)
 https://youtu.be/lUvv47ko7Ww
 
-* [10] Pandas assign 으로 새로운 컬럼 만들기, qcut으로 binning, bucketing 하기
+* [10] Pandas assign 으로 새로운 컬럼 만들기, qcut으로 binning, bucketing 하기[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/10-Pandas_Make_New_Columns.ipynb)
 https://youtu.be/CGEhwAd7Dbk
 
 * [11] Pandas df.sort_values, rename, sort_index, reset_index로 데이터 프레임 Reshaping
