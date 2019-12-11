@@ -58,7 +58,7 @@ https://youtu.be/mVr1OWLpI_M
 * [13] Pandas pd.concat([df1,df2]) 시리즈, 데이터프레임 합치기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/13-Pandas_concat.ipynb)
 https://youtu.be/vbr4xrFEbyw
 
-* [14] merge로 데이터프레임 합치기 left, right, inner, outer 옵션 사용하기 - 파이썬 판다스로 데이터 분석
+* [14] merge로 데이터프레임 합치기 left, right, inner, outer 옵션 사용하기 - 파이썬 판다스로 데이터 분석 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/14-Pandas_merge.ipynb)
 https://youtu.be/cUoJDBFsJ8Y
 
 * [15] 파이썬 판다스로 groupby 활용하여 다양한 데이터 집계를 활용하기
