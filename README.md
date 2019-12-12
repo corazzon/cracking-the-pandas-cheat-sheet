@@ -61,7 +61,7 @@ https://youtu.be/vbr4xrFEbyw
 * [14] merge로 데이터프레임 합치기 left, right, inner, outer 옵션 사용하기 - 파이썬 판다스로 데이터 분석 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/14-Pandas_merge.ipynb)
 https://youtu.be/cUoJDBFsJ8Y
 
-* [15] 파이썬 판다스로 groupby 활용하여 다양한 데이터 집계를 활용하기
+* [15] 파이썬 판다스로 groupby 활용하여 다양한 데이터 집계를 활용하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/15-Pandas_group.ipynb)
 https://youtu.be/gd5faB32xs0
 
 * [16] 시계열 데이터(Time Series Data) 분석을 위한 판다스 Expanding and Rolling 이해하기
