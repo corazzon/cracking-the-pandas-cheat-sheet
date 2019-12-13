@@ -64,7 +64,7 @@ https://youtu.be/cUoJDBFsJ8Y
 * [15] 파이썬 판다스로 groupby 활용하여 다양한 데이터 집계를 활용하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/15-Pandas_group.ipynb)
 https://youtu.be/gd5faB32xs0
 
-* [16] 시계열 데이터(Time Series Data) 분석을 위한 판다스 Expanding and Rolling 이해하기
+* [16] 시계열 데이터(Time Series Data) 분석을 위한 판다스 Expanding and Rolling 이해하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/16-Pandas_Expanding_and_Rolling.ipynb)
 https://youtu.be/Sq_uhK_GFIQ
 
 * [17] 파이썬 판다스로 Series 와 DataFrame 데이터 시각화 하기 소개
