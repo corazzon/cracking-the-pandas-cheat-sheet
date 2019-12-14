@@ -67,7 +67,7 @@ https://youtu.be/gd5faB32xs0
 * [16] 시계열 데이터(Time Series Data) 분석을 위한 판다스 Expanding and Rolling 이해하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/16-Pandas_Expanding_and_Rolling.ipynb)
 https://youtu.be/Sq_uhK_GFIQ
 
-* [17] 파이썬 판다스로 Series 와 DataFrame 데이터 시각화 하기 소개
+* [17] 파이썬 판다스로 Series 와 DataFrame 데이터 시각화 하기 소개 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/17-Pandas_Plot_Series_DataFrame.ipynb)
 https://youtu.be/yw4SX6KRGJw
 
 * [18] 파이썬 데이터 시각화 판다스로 bar plot 막대그래프 그리기
