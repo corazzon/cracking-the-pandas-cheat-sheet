@@ -70,7 +70,7 @@ https://youtu.be/Sq_uhK_GFIQ
 * [17] 파이썬 판다스로 Series 와 DataFrame 데이터 시각화 하기 소개 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/17-Pandas_Plot_Series_DataFrame.ipynb)
 https://youtu.be/yw4SX6KRGJw
 
-* [18] 파이썬 데이터 시각화 판다스로 bar plot 막대그래프 그리기
+* [18] 파이썬 데이터 시각화 판다스로 bar plot 막대그래프 그리기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/18-Pandas_bar_plot.ipynb)
 https://youtu.be/YTAd1TmgPv0
 
 * [19] 파이썬 데이터 시각화 히스토그램과 도수분포표 이해하기, 막대그래프 vs 히스토그램 차이점 이해하기
