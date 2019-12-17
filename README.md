@@ -73,10 +73,10 @@ https://youtu.be/yw4SX6KRGJw
 * [18] 파이썬 데이터 시각화 판다스로 bar plot 막대그래프 그리기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/18-Pandas_bar_plot.ipynb)
 https://youtu.be/YTAd1TmgPv0
 
-* [19] 파이썬 데이터 시각화 히스토그램과 도수분포표 이해하기, 막대그래프 vs 히스토그램 차이점 이해하기
+* [19] 파이썬 데이터 시각화 히스토그램과 도수분포표 이해하기, 막대그래프 vs 히스토그램 차이점 이해하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/19-20-Pandas_hist_plot.ipynb)
 https://youtu.be/L_UXVLz5Sxw
 
-* [20] 파이썬 판다스로 차분 diff 값을 구하고 히스토그램으로 표현하기
+* [20] 파이썬 판다스로 차분 diff 값을 구하고 히스토그램으로 표현하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/19-20-Pandas_hist_plot.ipynb)
 https://youtu.be/zFOvKkEtpEg
 
 * [21] 파이썬 시각화 상자 수염 그림(box plot) 그리기
