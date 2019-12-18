@@ -79,7 +79,7 @@ https://youtu.be/L_UXVLz5Sxw
 * [20] 파이썬 판다스로 차분 diff 값을 구하고 히스토그램으로 표현하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/19-20-Pandas_hist_plot.ipynb)
 https://youtu.be/zFOvKkEtpEg
 
-* [21] 파이썬 시각화 상자 수염 그림(box plot) 그리기
+* [21] 파이썬 시각화 상자 수염 그림(box plot) 그리기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/21-Pandas_box_plot.ipynb)
 https://youtu.be/q-SrfR_amhQ
 
 * [22] 파이썬 데이터 시각화 Area plot, Grid 옵션으로 그래프 격자 만들기
