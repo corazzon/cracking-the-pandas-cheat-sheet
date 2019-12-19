@@ -82,7 +82,7 @@ https://youtu.be/zFOvKkEtpEg
 * [21] 파이썬 시각화 상자 수염 그림(box plot) 그리기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/21-Pandas_box_plot.ipynb)
 https://youtu.be/q-SrfR_amhQ
 
-* [22] 파이썬 데이터 시각화 Area plot, Grid 옵션으로 그래프 격자 만들기
+* [22] 파이썬 데이터 시각화 Area plot, Grid 옵션으로 그래프 격자 만들기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/22-Pandas_area_plot.ipynb)
 https://youtu.be/dRu0BfJ0uDg
 
 * [23] 파이썬 데이터 시각화 scatter plot, 산점도 그리기
