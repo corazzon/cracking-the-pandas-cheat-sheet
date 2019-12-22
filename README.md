@@ -91,7 +91,7 @@ https://youtu.be/hlIivkjKzKY
 * [24] 파이썬 데이터 시각화 히스토그램과 산점도를 보완한 Hexbin plot 그리기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/24-Hexagonal_Bin_Plot.ipynb)
 https://youtu.be/8tbF6kT9fZ8
 
-* [25] Pandas pie plot, 원 그래프, 왜  seaborn  에는 파이차트가 없을까?
+* [25] Pandas pie plot, 원 그래프, 왜  seaborn  에는 파이차트가 없을까? [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/25-Pandas_Pie_plot.ipynb)
 https://youtu.be/zAgVZ_jZHNg
 
 * [26] Scatter Matrix Plot 산점도를 diagonal='kde'옵션을 사용해서 커널밀도함수를 표현해 보도록 합니다.
