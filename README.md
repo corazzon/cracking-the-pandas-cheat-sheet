@@ -94,7 +94,7 @@ https://youtu.be/8tbF6kT9fZ8
 * [25] Pandas pie plot, 원 그래프, 왜  seaborn  에는 파이차트가 없을까? [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/25-Pandas_Pie_plot.ipynb)
 https://youtu.be/zAgVZ_jZHNg
 
-* [26] Scatter Matrix Plot 산점도를 diagonal='kde'옵션을 사용해서 커널밀도함수를 표현해 보도록 합니다.
+* [26] Scatter Matrix Plot 산점도를 diagonal='kde'옵션을 사용해서 커널밀도함수를 표현해 보도록 합니다.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/26-Scatter_Matrix_Plot.ipynb)
 https://youtu.be/PtSofOihtZs
 
 * [27] 파이썬 시각화  분포도 정규분포, 분포도 그리기, Kernel Density Estimate plot 커널밀도함수, 밀도함수
