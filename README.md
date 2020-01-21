@@ -97,7 +97,7 @@ https://youtu.be/zAgVZ_jZHNg
 * [26] Scatter Matrix Plot 산점도를 diagonal='kde'옵션을 사용해서 커널밀도함수를 표현해 보도록 합니다.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/26-Scatter_Matrix_Plot.ipynb)
 https://youtu.be/PtSofOihtZs
 
-* [27] 파이썬 시각화  분포도 정규분포, 분포도 그리기, Kernel Density Estimate plot 커널밀도함수, 밀도함수
+* [27] 파이썬 시각화  분포도 정규분포, 분포도 그리기, Kernel Density Estimate plot 커널밀도함수, 밀도함수[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/27-Kernel_Density_Estimate_plot.ipynb)
 https://youtu.be/xthZxPOU_cA
 
 * [28] 소스코드 위치 안내와 다운로드 방법, 추가로 참고하면 좋을 자료들
