@@ -49,55 +49,55 @@ https://youtu.be/lUvv47ko7Ww
 * [10] Pandas assign 으로 새로운 컬럼 만들기, qcut으로 binning, bucketing 하기[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/10-Pandas_Make_New_Columns.ipynb)
 https://youtu.be/CGEhwAd7Dbk
 
-* [11] Pandas df.sort_values, rename, sort_index, reset_index로 데이터 프레임 Reshaping
+* [11] Pandas df.sort_values, rename, sort_index, reset_index로 데이터 프레임 Reshaping [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/11-Pandas_Reshaping_Data.ipynb)
 https://youtu.be/iICCBjAHRq8
 
-* [12] Pandas melt, pivot 으로 Tidy Data 만들기
+* [12] Pandas melt, pivot 으로 Tidy Data 만들기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/12-Pandas_melt_pivot.ipynb)
 https://youtu.be/mVr1OWLpI_M
 
-* [13] Pandas pd.concat([df1,df2]) 시리즈, 데이터프레임 합치기
+* [13] Pandas pd.concat([df1,df2]) 시리즈, 데이터프레임 합치기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/13-Pandas_concat.ipynb)
 https://youtu.be/vbr4xrFEbyw
 
-* [14] merge로 데이터프레임 합치기 left, right, inner, outer 옵션 사용하기 - 파이썬 판다스로 데이터 분석
+* [14] merge로 데이터프레임 합치기 left, right, inner, outer 옵션 사용하기 - 파이썬 판다스로 데이터 분석 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/14-Pandas_merge.ipynb)
 https://youtu.be/cUoJDBFsJ8Y
 
-* [15] 파이썬 판다스로 groupby 활용하여 다양한 데이터 집계를 활용하기
+* [15] 파이썬 판다스로 groupby 활용하여 다양한 데이터 집계를 활용하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/15-Pandas_group.ipynb)
 https://youtu.be/gd5faB32xs0
 
-* [16] 시계열 데이터(Time Series Data) 분석을 위한 판다스 Expanding and Rolling 이해하기
+* [16] 시계열 데이터(Time Series Data) 분석을 위한 판다스 Expanding and Rolling 이해하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/16-Pandas_Expanding_and_Rolling.ipynb)
 https://youtu.be/Sq_uhK_GFIQ
 
-* [17] 파이썬 판다스로 Series 와 DataFrame 데이터 시각화 하기 소개
+* [17] 파이썬 판다스로 Series 와 DataFrame 데이터 시각화 하기 소개 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/17-Pandas_Plot_Series_DataFrame.ipynb)
 https://youtu.be/yw4SX6KRGJw
 
-* [18] 파이썬 데이터 시각화 판다스로 bar plot 막대그래프 그리기
+* [18] 파이썬 데이터 시각화 판다스로 bar plot 막대그래프 그리기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/18-Pandas_bar_plot.ipynb)
 https://youtu.be/YTAd1TmgPv0
 
-* [19] 파이썬 데이터 시각화 히스토그램과 도수분포표 이해하기, 막대그래프 vs 히스토그램 차이점 이해하기
+* [19] 파이썬 데이터 시각화 히스토그램과 도수분포표 이해하기, 막대그래프 vs 히스토그램 차이점 이해하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/19-20-Pandas_hist_plot.ipynb)
 https://youtu.be/L_UXVLz5Sxw
 
-* [20] 파이썬 판다스로 차분 diff 값을 구하고 히스토그램으로 표현하기
+* [20] 파이썬 판다스로 차분 diff 값을 구하고 히스토그램으로 표현하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/19-20-Pandas_hist_plot.ipynb)
 https://youtu.be/zFOvKkEtpEg
 
-* [21] 파이썬 시각화 상자 수염 그림(box plot) 그리기
+* [21] 파이썬 시각화 상자 수염 그림(box plot) 그리기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/21-Pandas_box_plot.ipynb)
 https://youtu.be/q-SrfR_amhQ
 
-* [22] 파이썬 데이터 시각화 Area plot, Grid 옵션으로 그래프 격자 만들기
+* [22] 파이썬 데이터 시각화 Area plot, Grid 옵션으로 그래프 격자 만들기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/22-Pandas_area_plot.ipynb)
 https://youtu.be/dRu0BfJ0uDg
 
-* [23] 파이썬 데이터 시각화 scatter plot, 산점도 그리기
+* [23] 파이썬 데이터 시각화 scatter plot, 산점도 그리기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/23-Pandas_scatter_plot.ipynb)
 https://youtu.be/hlIivkjKzKY
 
-* [24] 파이썬 데이터 시각화 히스토그램과 산점도를 보완한 Hexbin plot 그리기 
+* [24] 파이썬 데이터 시각화 히스토그램과 산점도를 보완한 Hexbin plot 그리기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/24-Hexagonal_Bin_Plot.ipynb)
 https://youtu.be/8tbF6kT9fZ8
 
-* [25] Pandas pie plot, 원 그래프, 왜  seaborn  에는 파이차트가 없을까?
+* [25] Pandas pie plot, 원 그래프, 왜  seaborn  에는 파이차트가 없을까? [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/25-Pandas_Pie_plot.ipynb)
 https://youtu.be/zAgVZ_jZHNg
 
-* [26] Scatter Matrix Plot 산점도를 diagonal='kde'옵션을 사용해서 커널밀도함수를 표현해 보도록 합니다.
+* [26] Scatter Matrix Plot 산점도를 diagonal='kde'옵션을 사용해서 커널밀도함수를 표현해 보도록 합니다.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/26-Scatter_Matrix_Plot.ipynb)
 https://youtu.be/PtSofOihtZs
 
-* [27] 파이썬 시각화  분포도 정규분포, 분포도 그리기, Kernel Density Estimate plot 커널밀도함수, 밀도함수
+* [27] 파이썬 시각화  분포도 정규분포, 분포도 그리기, Kernel Density Estimate plot 커널밀도함수, 밀도함수[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/27-Kernel_Density_Estimate_plot.ipynb)
 https://youtu.be/xthZxPOU_cA
 
 * [28] 소스코드 위치 안내와 다운로드 방법, 추가로 참고하면 좋을 자료들
