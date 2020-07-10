@@ -105,3 +105,14 @@ https://youtu.be/9hi8C2yie1o
 
 * [29] colab(google colaboratory) 에서 github 에 있는 파이썬 판다스 실습코드를 실행해 보는 방법
 https://youtu.be/P1Z7BfsWhek
+
+## 서울시 코로나19 발생현황 분석하기
+
+* 2020년 6월 30일까지의 코로나 발생현황을 판다스로 크롤링, 분석, 시각화를 합니다.
+
+* 판다스로 크롤링 하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/seoul-covid-19-01-read_html-output.ipynb)
+
+* 판다스로 데이터 로드해서 분석하기 
+  * 코드를 직접 타이핑하며 실습할 수 있는 파일 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/seoul-covid-19-02-eda-output.ipynb)
+  
+  * 결과코드가 함께 있는 파일 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/seoul-covid-19-02-eda-input.ipynb)
