@@ -16,6 +16,8 @@ Python에서 엑셀과 유사한 기능을 사용할 수 있는 라이브러리�
 ### 데이터 시각화
 시각화 부분은 짧게만 다루려고 했는데 어떤 데이터에 어떤 그래프를 사용하는게 적절할지, 막대그래프, 도수분포표, 히스토그램, 정규분포의 차이와 사용법에 대해서도 다루고 있습니다.
 
+### 서울 코로나19 발생현황 분석
+2020년 6월 30일까지의 코로나19 발생현황 데이터를 판다스로 크롤링, 전처리, 분석, 시각화를 다루고 있습니다.
 
 ## Pandas cheat sheet 따라하기
 
@@ -110,9 +112,9 @@ https://youtu.be/P1Z7BfsWhek
 
 * 2020년 6월 30일까지의 코로나 발생현황을 판다스로 크롤링, 분석, 시각화를 합니다.
 
-* 판다스로 크롤링 하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/seoul-covid-19-01-read_html-output.ipynb)
+* 판다스로 크롤링 하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/seoul-covid19-crawling-output)
 
 * 판다스로 데이터 로드해서 분석하기 
-  * 코드를 직접 타이핑하며 실습할 수 있는 파일 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/seoul-covid-19-02-eda-output.ipynb)
+  * 코드를 직접 타이핑하며 실습할 수 있는 파일 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/seoul-covid19-eda-input)
   
-  * 결과코드가 함께 있는 파일 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/cracking-the-pandas-cheat-sheet/blob/master/seoul-covid-19-02-eda-input.ipynb)
+  * 결과코드가 함께 있는 파일 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/seoul-covid19-eda-output)
