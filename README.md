@@ -4,7 +4,7 @@ https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 
 # 전체강좌보기
 
-:tv: https://www.inflearn.com/course/판다스-Pandas
+:tv: https://bit.ly/inflearn-pandas-tutorial
 
 ### Pandas cheat sheet
 Python에서 엑셀과 유사한 기능을 사용할 수 있는 라이브러리로 Pandas cheat sheet을 따라해 봅니다.
