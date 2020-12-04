@@ -114,7 +114,9 @@ https://youtu.be/P1Z7BfsWhek
 
 * 2020년 6월 30일까지의 코로나 발생현황을 판다스로 크롤링, 분석, 시각화를 합니다.
 
-* 판다스로 크롤링 하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/seoul-covid19-crawling-output)
+* 판다스 read_html로 데이터수집 하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/seoul-covid19-crawling-output)
+
+* 부록: requests로 데이터 수집하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/seoul-covid19-scraping-data)
 
 * 판다스로 데이터 로드해서 분석하기 
   * 코드를 직접 타이핑하며 실습할 수 있는 파일 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/seoul-covid19-eda-input)
