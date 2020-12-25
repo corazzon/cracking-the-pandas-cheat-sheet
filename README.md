@@ -122,3 +122,13 @@ https://youtu.be/P1Z7BfsWhek
   * 코드를 직접 타이핑하며 실습할 수 있는 파일 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/seoul-covid19-eda-input)
   
   * 결과코드가 함께 있는 파일 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/seoul-covid19-eda-output)
+
+
+
+## License
+
+### Code
+The code in this repository, including all code samples in the notebooks listed above, is released under the MIT license. Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
+
+### Text
+The text content of the book is released under the [CC-BY-NC-ND license](https://ko.wikipedia.org/wiki/%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%8B%B0%EB%B8%8C_%EC%BB%A4%EB%A8%BC%EC%A6%88_%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4). Read more at [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode).
