@@ -1,6 +1,8 @@
-# cracking-the-pandas-cheat-sheet
+# 단 두 장의 문서로 데이터 분석과 시각화 뽀개기
 
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+<a href="https://bit.ly/inflearn-pandas-tutorial" style="float:left"><img src="https://cdn.inflearn.com/public/courses/324030/course_cover/159651c0-3994-463b-8ece-be3b4c52709c/pandas_bje.png" width=242></a>
 
 # 전체강좌보기
 
